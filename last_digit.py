@@ -7,3 +7,5 @@ if num <10:
 else:
    last=num%10
    print(last)
+
+   
