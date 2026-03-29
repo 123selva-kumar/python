@@ -5,7 +5,6 @@ num=int(input())
 if num <10:
   print(num)
 else:
-   last=num%10
-   print(last)
+  last=num%10
+  print(last)
 
-   
